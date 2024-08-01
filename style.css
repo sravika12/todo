@@ -1,0 +1,28 @@
+body {
+   font-size:30px;
+   margin-left:600px;
+    font-family: Arial, sans-serif;
+    background-color:cornsilk;
+}
+
+ul {
+    padding: 0;
+    margin-left:60px;
+}
+
+li {
+   font-size:20px;
+    margin-bottom: 10px;
+}
+li button{
+    margin-left:20px;
+}
+input{
+    width:200px;
+}
+button{
+    width:100px;
+    border:none;
+    background-color:black;
+    color:white;
+}
